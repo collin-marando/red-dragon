@@ -1,0 +1,11 @@
+{
+  "[markdown]": {
+    "editor.matchBrackets": "never",
+    "editor.bracketPairColorization.enabled": false,
+    "editor.autoClosingBrackets": "never",
+    "python.defaultInterpreterPath": "/usr/bin/python3"
+  },
+  "cSpell.words": [
+    "lookaheads"
+  ]
+}
